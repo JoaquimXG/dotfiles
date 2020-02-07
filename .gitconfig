@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = JoaquimXG
+	email = 49433786+JoaquimXG@users.noreply.github.com
+#	email = Joaquim.q.gomez@gmail.com 
+[alias]
+	adog = log --all --decorate --oneline --graph
+[core]
+	autocrlf = input
