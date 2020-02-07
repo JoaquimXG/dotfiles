@@ -8,7 +8,7 @@ Clone into home folder
 
 cd into dotfiles directory
 
-stove -t $HOME/ -d./ .
+stove -t $HOME/ -d ./ .
 
 ## Dependancies
 
